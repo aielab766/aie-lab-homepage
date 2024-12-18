@@ -1,0 +1,89 @@
+- group: 0
+  info: Associate Professor
+  name: Wu Yunzhi
+  photo: wuyunzhi.png
+  url: wuyunzhi
+- group: 1
+  info: Since 2023
+  name: Wang Wenyu
+  photo: wangwenyu2.jpg
+  url: wangwenyu2
+  description: 
+- group: 1
+  info: Since 2023
+  name: Shu Xin
+  photo: shuxin.jpg
+  url: shuxin 
+  description:  
+- group: 2
+  info: graduated 2024
+  name: Wang Haoyu
+  photo: wanghaoyu.jpg
+  url: wanghaoyu
+  description: Now pursuing Ph.D at SEU
+- group: 2
+  info: graduated 2024
+  name: Xia Xi
+  photo: xiaxi.jpg
+  url: xiaxi
+  description: Now pursuing Master at AHU
+- group: 2
+  info: graduated 2024
+  name: Sun Xuean
+  photo: sunxuean.jpg
+  url: sunxuean
+  description: Now pursuing Master at Hohai University  
+- group: 2
+  info: graduated 2024
+  name: Feng Cheng
+  photo: fengcheng.jpg
+  url: fengcheng
+  description: Now pursuing Master at UCAS
+- group: 2
+  info: graduated 2023
+  name: XU Chun
+  photo: xuchun.jpg
+  url: xuchun
+  description: Now pursuing Master at DHU
+- group: 2
+  info: graduated 2023
+  name: Dong Menglong 
+  photo: dongmenglong.jpg
+  url: dongmenglong
+  description: Now pursuing Master at NEU
+- group: 2
+  info: graduated 2023
+  name: Bi Jiaze
+  photo: bijiaze.jpg
+  url: bijiaze
+  description: Now pursuing Master at XMU
+- group: 2
+  info: graduated 2022
+  name: Zeng Tao
+  photo: zengtao.jpg
+  url: zengtao
+  description: Now pursuing Master at XMU
+- group: 2
+  info: graduated 2022
+  name: Wang Yingbo
+  photo: wuyunzhi.png
+  url: wangyingbo
+  description: Now pursuing Master at XXU
+- group: 2
+  info: graduated 2021
+  name: Ma Zhiyu
+  photo: mazhiyu.jpg
+  url: mazhiyu
+  description: Now pursuing Ph.D at USTC
+- group: 2
+  info: graduated 2021
+  name: Wang Wenyu
+  photo: wangwenyu1.jpg
+  url: wagnwenyu1
+  description: Master of NJU, Now at Telecom-JiangSu
+- group: 2
+  info: graduated 2021
+  name: Liu Aoyu
+  photo: wuyunzhi.png
+  url: liuaoyu
+  description: Now pursuing Ph.D at Tongji University
