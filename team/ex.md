@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Khoa Vo
+title: Khoa Vo 
 position: PhD Student
 handle: khoa_vo
 email: khoavoho@uark.edu
